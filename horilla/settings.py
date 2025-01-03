@@ -43,7 +43,7 @@ DEBUG = env("DEBUG")
 
 # ALLOWED_HOSTS = env("ALLOWED_HOSTS")
 
-ALLOWED_HOSTS = ['admin.growitup.co', '64.227.185.138']
+ALLOWED_HOSTS = ['admin.growitup.co', '139.59.73.90']
 # Application definition
 
 INSTALLED_APPS = [
